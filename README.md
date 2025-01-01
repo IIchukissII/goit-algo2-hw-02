@@ -1,1 +1,2 @@
-# goit-algo2-hw-02
+# Conclusion
+Both tasks demonstrate the application of optimization techniques—greedy algorithms for 3D printing queue management and dynamic programming for the rod cutting problem—highlighting the importance of efficient resource allocation and problem-solving strategies in computational scenarios. Each approach ensures maximum output while adhering to given constraints, showcasing practical implementations of algorithmic principles.
